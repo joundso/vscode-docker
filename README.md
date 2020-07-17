@@ -25,4 +25,5 @@
 
 ## References
 
-<https://github.com/cdr/code-server>
+- The code of the Visual Stuio Code Server is from <https://github.com/cdr/code-server>
+- The structure and docker-adaptions is inspired by <https://github.com/ThorbenJensen/code-server-blueprint>
