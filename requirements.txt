@@ -5,4 +5,4 @@ mypy==0.782
 pandas==1.0.5
 python-dotenv==0.13.0
 requests==2.22.0
-xlrd==1.2.0
+xlrd==2.0.1
