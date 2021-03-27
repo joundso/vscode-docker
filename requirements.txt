@@ -3,6 +3,6 @@ datetime==4.3
 flake8==3.9.0
 mypy==0.812
 pandas==1.2.3
-python-dotenv==0.15.0
+python-dotenv==0.16.0
 requests==2.25.1
 xlrd==2.0.1
