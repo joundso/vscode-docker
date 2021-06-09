@@ -1,7 +1,7 @@
 cx-Oracle==8.2.1
 datetime==4.3
 flake8==3.9.2
-mypy==0.900
+mypy==0.901
 pandas==1.2.4
 python-dotenv==0.17.1
 requests==2.25.1
