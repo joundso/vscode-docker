@@ -1,5 +1,5 @@
 cx-Oracle==8.3.0
-datetime==5.2
+datetime==5.3
 flake8==6.1.0
 mypy==1.7.0
 pandas==2.1.3
